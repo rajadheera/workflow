@@ -1,13 +1,8 @@
-git pull( fetch + merge)
+class sample
+{
+public static void main (String[])
+{
+system.out.println(day2 code merge);
 
-git clone
-
-git add . (add all the files into staging area )
-
-git add file1 file2 ---staging
-
-git commit -m"JIRA-101 changes for USER_story-102"
-
-git push origin main
-
-git pull --all
+}
+}
