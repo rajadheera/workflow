@@ -2,7 +2,7 @@ class sample
 {
 public static void main (String[])
 {
-system.out.println(day2 change 1);
+system.out.println(day5 code  was merge by dev2 );
 
 }
 }
